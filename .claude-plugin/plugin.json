@@ -1,0 +1,10 @@
+{
+  "name": "event-horizon",
+  "version": "0.1.0",
+  "description": "Animated hi-tech backdrops (default: a black hole fed by your context) with app colors that overheat as the context window fills.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Richugan"
+  }
+}
